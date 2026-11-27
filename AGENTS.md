@@ -3,6 +3,10 @@
 > 给下一个接手这个仓库的 AI 助手（或未来的我自己）。读完这一页就能继续加第 06 期，不需要重新摸索。
 > 最后更新：2026-11-28
 
+## 一句话上手
+
+新视频链接来了 → `vidsum.py prepare` → AudioTranscribe 转写 → ViewImage 看帧 → 写 `summary.md` → `vidsum.py render` → 更新 README 清单 → `python tools/gh_push.py`。
+
 ## 这是什么
 
 一个**视频笔记仓库**。把抖音等平台的视频链接，抓成「结构化摘要 + 带时间点口播稿 + 关键帧」，以每期一个目录的形式持续积累。内容主题是**游戏开发技术**和**AI 辅助美术/立项**。
@@ -141,6 +145,33 @@ python ~/.workbuddy/skills/video-summarize/scripts/vidsum.py frames "<目录>" -
 - `.gitignore` 排除 `source.mp4`、`audio/`、`.cand/`、`*.part`。**这个仓库要保持 20MB 量级**，别把原视频提交进去
 - commit message 用 `feat: 新增《标题》摘要` / `fix: 修正 xx 图注` / `docs: 更新 README 清单`
 - 一期的素材和文档**一次提交**，方便回溯
+
+## 推送到 GitHub（重要）
+
+仓库：<https://github.com/Marshall-Jimmy/video-notes>（private）
+
+**本机 `git push` 用不了**：HTTP 代理只放通了 `api.github.com`，`github.com:443` 连不上，
+git 会报 `Failed to connect to github.com:443 over proxy`。gh 的 API 是通的，所以推送走 API：
+
+```bash
+git add -A && git commit -m "feat: 新增《xxx》摘要"
+python tools/gh_push.py            # 本地 HEAD 的 tree -> 远端 main
+python tools/gh_push.py --dry-run  # 只看差异不动手
+```
+
+`tools/gh_push.py` 的做法：把本地 HEAD 的每个文件按 git 对象库里的内容（LF 归一化后）
+做成 blob → 建 tree → 以**远端当前 main 为父**建 commit → 移动分支指针。
+远端 tree 与本地一致时会直接跳过，不会产生空提交。
+
+⚠️ 由此带来的**历史分歧**：远端有两个提交（`chore: 初始化仓库` 引导提交 + 内容提交），
+本地只有一个。内容（tree）完全一致，但祖先不同。所以**在能正常访问 github.com 的机器上
+第一次操作前**，先跑一次：
+
+```bash
+git fetch origin && git reset --hard origin/main
+```
+
+之后 `git pull / git push` 就是正常的了。
 
 ## 待办 / 想法
 
