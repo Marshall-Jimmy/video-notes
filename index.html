@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>视频笔记 · 游戏开发 & AI 美术</title>
+<title>视频笔记 · 游戏开发 &amp; AI 美术</title>
 <style>
   :root{
     --fg:#1b1d21; --muted:#6b7280; --line:#e6e8eb; --accent:#c0392b;
@@ -17,19 +17,20 @@
   h1{font-size:30px;margin:0 0 10px;letter-spacing:-.4px}
   .lead{color:var(--muted);margin:0 0 6px;font-size:15px}
   .meta{color:var(--muted);font-size:13px;margin:0 0 40px}
-  h2{font-size:14px;font-weight:600;letter-spacing:.08em;color:var(--muted);
+  h2{font-size:13px;font-weight:600;letter-spacing:.1em;color:var(--muted);
     text-transform:uppercase;margin:44px 0 14px}
-  .card{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;
-    padding:18px 22px;margin:12px 0;text-decoration:none;color:inherit;
-    transition:box-shadow .18s ease,transform .18s ease,border-color .18s ease}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;
+    padding:18px 22px;margin:12px 0;transition:box-shadow .18s ease,transform .18s ease,border-color .18s ease}
   .card:hover{box-shadow:0 6px 20px rgba(16,24,40,.08);transform:translateY(-1px);border-color:#d6d9de}
+  .tlink{display:block;text-decoration:none;color:inherit}
+  .tlink:hover .title{color:var(--accent)}
   .row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
   .num{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:600;font-size:13px;
     border:1px solid rgba(192,57,43,.25);border-radius:5px;padding:1px 7px;flex:none}
   .title{font-weight:600;font-size:17px;line-height:1.45}
   .by{color:var(--muted);font-size:13px;margin-top:2px}
   .one{color:#374151;font-size:14.5px;margin-top:8px;line-height:1.65}
-  .links{margin-top:12px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+  .links{margin-top:12px;display:flex;gap:16px;flex-wrap:wrap;font-size:13px}
   .links a{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(192,57,43,.28)}
   .links a.sub{color:var(--muted);border-bottom-color:var(--line)}
   footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--line);
@@ -46,47 +47,67 @@
 
   <h2>技术实现</h2>
 
-  <a class="card" href="让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/report.html">
-    <div class="row"><span class="num">01</span><span class="title">让火焰烧起来 ·《五星地牢》开发日志 04</span></div>
+  <div class="card">
+    <a class="tlink" href="让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/report.html">
+      <div class="row"><span class="num">01</span><span class="title">让火焰烧起来 ·《五星地牢》开发日志 04</span></div>
+    </a>
     <div class="by">babyunko · 03:17 · 抖音</div>
     <div class="one">不靠逐帧贴图：每像素一个数值，两层滚动噪声把轮廓推到 0 附近，正数显示、负数透明，上色复用同一个数值。</div>
-    <div class="links"><a href="让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/summary.md">摘要</a>
-      <a class="sub" href="让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/transcript.md">口播稿</a></div>
-  </a>
+    <div class="links">
+      <a href="让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/summary.md">摘要</a>
+      <a class="sub" href="让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/transcript.md">口播稿</a>
+    </div>
+  </div>
 
-  <a class="card" href="2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/report.html">
-    <div class="row"><span class="num">02</span><span class="title">2D 游戏中的雪天效果 · DEV LOG 05</span></div>
+  <div class="card">
+    <a class="tlink" href="2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/report.html">
+      <div class="row"><span class="num">02</span><span class="title">2D 游戏中的雪天效果 · DEV LOG 05</span></div>
+    </a>
     <div class="by">Mushreb · 04:00 · 抖音</div>
     <div class="one">粒子归粒子、积雪归 shader：噪波 + Step 阈值当蒙版，阈值就是积雪厚度，一个参数控制堆积与消融。</div>
-    <div class="links"><a href="2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/summary.md">摘要</a>
-      <a class="sub" href="2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/transcript.md">口播稿</a></div>
-  </a>
+    <div class="links">
+      <a href="2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/summary.md">摘要</a>
+      <a class="sub" href="2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/transcript.md">口播稿</a>
+    </div>
+  </div>
 
-  <a class="card" href="今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008/report.html">
-    <div class="row"><span class="num">03</span><span class="title">今天继续驯服 AI · PageKit 页面框架</span></div>
+  <div class="card">
+    <a class="tlink" href="今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008/report.html">
+      <div class="row"><span class="num">03</span><span class="title">今天继续驯服 AI · PageKit 页面框架</span></div>
+    </a>
     <div class="by">babyunko · 03:18 · 抖音</div>
     <div class="one">Godot 自由度太高，AI 会给每个页面各写一套动画；用 UIKit 式转场协议把动画收进一个必须继承的类。</div>
-    <div class="links"><a href="今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008/summary.md">摘要</a>
-      <a class="sub" href="今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008/transcript.md">口播稿</a></div>
-  </a>
+    <div class="links">
+      <a href="今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008/summary.md">摘要</a>
+      <a class="sub" href="今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008/transcript.md">口播稿</a>
+    </div>
+  </div>
 
   <h2>方法论与 AI 协作</h2>
 
-  <a class="card" href="AI游戏美术立项：先有画风还是先有玩法？_做游戏美术到底先画什么_7692132863755537718/report.html">
-    <div class="row"><span class="num">04</span><span class="title">AI 游戏美术立项：先有画风还是先有玩法？</span></div>
+  <div class="card">
+    <a class="tlink" href="AI游戏美术立项：先有画风还是先有玩法？_做游戏美术到底先画什么_7692132863755537718/report.html">
+      <div class="row"><span class="num">04</span><span class="title">AI 游戏美术立项：先有画风还是先有玩法？</span></div>
+    </a>
     <div class="by">野路子游戏车间 · 07:34 · 抖音</div>
     <div class="one">三个入口——题材 / 画风 / 形象，没有高下之分；金字塔是看别人作品的放大镜，不是约束自己的流程。</div>
-    <div class="links"><a href="AI游戏美术立项：先有画风还是先有玩法？_做游戏美术到底先画什么_7692132863755537718/summary.md">摘要</a>
-      <a class="sub" href="AI游戏美术立项：先有画风还是先有玩法？_做游戏美术到底先画什么_7692132863755537718/transcript.md">口播稿</a></div>
-  </a>
+    <div class="links">
+      <a href="AI游戏美术立项：先有画风还是先有玩法？_做游戏美术到底先画什么_7692132863755537718/summary.md">摘要</a>
+      <a class="sub" href="AI游戏美术立项：先有画风还是先有玩法？_做游戏美术到底先画什么_7692132863755537718/transcript.md">口播稿</a>
+    </div>
+  </div>
 
-  <a class="card" href="AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/report.html">
-    <div class="row"><span class="num">05</span><span class="title">AI 做的场景为什么一眼假？</span></div>
+  <div class="card">
+    <a class="tlink" href="AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/report.html">
+      <div class="row"><span class="num">05</span><span class="title">AI 做的场景为什么一眼假？</span></div>
+    </a>
     <div class="by">糯米鱼丸（Ai版） · 06:36 · 抖音</div>
     <div class="one">「假」是四个独立问题：东西太少、太新、摆得太整齐、光没来源。附作者和 Claude 的原始对话截图。</div>
-    <div class="links"><a href="AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/summary.md">摘要</a>
-      <a class="sub" href="AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/transcript.md">口播稿</a></div>
-  </a>
+    <div class="links">
+      <a href="AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/summary.md">摘要</a>
+      <a class="sub" href="AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/transcript.md">口播稿</a>
+    </div>
+  </div>
 
   <footer>
     摘要与关键帧由 AI 生成后人工校对，图注和数字均对照原片核过。视频版权归原作者所有。<br>
