@@ -131,7 +131,7 @@ python ~/.workbuddy/skills/video-summarize/scripts/vidsum.py frames "<目录>" -
 | 抽帧时间戳 | 不能用 `fps` 滤镜——它会**把输出时间戳重排成从 0 开始**，片头有淡入时导出的"第 0 帧"是纯黑。必须 `select='not(mod(n,step))'` + `-vsync 0` 保留原始 PTS |
 | 关键帧数量 | 口播/PPT 型给 8 帧会漏掉关键图表（07:34 那条丢了金字塔页，改 12 帧才补回） |
 | 装依赖 | 这台机器 pypi 直连超时、清华镜像 403。用**阿里云镜像** `-i https://mirrors.aliyun.com/pypi/simple`；ffmpeg 从 **npmmirror** 拉（`@ffmpeg-installer/win32-x64`，22MB/4s） |
-| 文件名 | 目录名里的 `？`、`《》`、`#` 都是**全角/合法字符**，不要"修正"成半角，改了链接就断 |
+| 文件名 | 目录名里的 `？`、`《》` 是**全角/合法字符**，不要"修正"成半角，改了链接就断。但 `#` 和 `%` 必须去掉——`#` 在 URL 里是片段分隔符、`%` 是转义起始，带它们的目录点不开（脚本的 `slugify` 已经会剥掉） |
 
 ## 环境依赖
 
@@ -175,6 +175,14 @@ git fetch origin && git reset --hard origin/main
 
 ## 待办 / 想法
 
-- [ ] GitHub Pages 可以把 `index.html` 发成在线页面（需要仓库设为 public）；目前 report.html 需要下载后打开
+- [x] GitHub Pages 已启用，`index.html` 发成了在线页面：<https://marshall-jimmy.github.io/video-notes/>
+      （仓库已设为 public；Pages 源 = `main` 分支根目录，每次推送后自动重建，约 40 秒）
 - [ ] 抖音图文作品（`kind=images`）还没实际跑过，脚本里有分支，遇到时验证一下
 - [ ] 可以考虑给每期加"标签"（Godot / Shader / AI 美术 / 立项），README 里按标签检索
+
+## Pages 的注意点
+
+- **目录名不能含 `#` 和 `%`**：`#` 在 URL 里是片段分隔符，带它的目录在网页上点不开
+  （03 期原来叫 `今天继续驯服AI_#Godot_...`，已经改名；skill 的 `slugify` 现在会自动剥掉这两个字符）
+- 全角 `？`、`《》`、`：` 是安全的，会被自动 URL 编码
+- Pages 不渲染 `.md`，所以对外看排版走 `report.html` / `index.html`
