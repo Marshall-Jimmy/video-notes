@@ -1,0 +1,24 @@
+{
+  "platform": "douyin",
+  "id": "7683890555486506255",
+  "url": "https://www.douyin.com/video/7683890555486506255",
+  "title": "2D游戏中的雪天效果 DEV LOG.05 本期主要是讨论一下在2D游戏中雪天效果的制作思路，包括雪粒子以及地面积雪效果\n------\n游戏引擎：Godot 4.7.0\n编程语言：C#\nBGM: SoundTeMP - Silver Bell",
+  "author": "Mushreb",
+  "publish_time": 1789045193,
+  "stats": {
+    "digg_count": 7433,
+    "comment_count": 199,
+    "share_count": 800,
+    "collect_count": 3387
+  },
+  "music": "@Mushreb创作的原声",
+  "kind": "video",
+  "duration": 240.3,
+  "width": 1920,
+  "height": 1080,
+  "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255",
+  "duration_h": "04:00",
+  "bytes": 26057067,
+  "fps": "30/1"
+}

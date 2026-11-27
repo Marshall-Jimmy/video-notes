@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+# 图片保持二进制，别做行尾转换
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.mp4 binary

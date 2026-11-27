@@ -1,0 +1,24 @@
+{
+  "platform": "douyin",
+  "id": "7710984439119340518",
+  "url": "https://www.douyin.com/video/7710984439119340518",
+  "title": "AI 做的场景为什么一眼假？ 上期讲了 AI 怎么从零搭出一个游戏场景，这期讲怎么把它做细。\nAI 做的场景为什么一眼假？东西太少、太新、摆得假、光不行。这期讲这四件事：\n① 按故事补东西：这里打过仗、荒了很久，所以有兵器、弹坑、积土、青苔和彼岸花\n② 做旧：棱角磨圆，掉皮用贴图，坏也要坏得像真的\n③ 摆放：扎堆有疏有密，东西要落地，交界要过渡\n④ 打光：开全局光，暗处补说得通的光源，再加雾 \n分工：GPT 出效果图、做地形花草和贴图，Claude 建建筑、摆场景，雕塑用 Hyper3D 生成。\n当时和 AI 的聊天原话都放在画面里了，想细看可以暂停\n用到的工具：UE5.8、Claude、GPT、Hyper3D\n#ai干货 #ai制作游戏 #ue5 #ai建模  #场景制作",
+  "author": "糯米鱼丸（Ai版）",
+  "publish_time": 1795353470,
+  "stats": {
+    "digg_count": 7148,
+    "comment_count": 133,
+    "share_count": 977,
+    "collect_count": 4432
+  },
+  "music": "@糯米鱼丸（Ai版）创作的原声",
+  "kind": "video",
+  "duration": 395.62,
+  "width": 1920,
+  "height": 1080,
+  "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518",
+  "duration_h": "06:36",
+  "bytes": 61981505,
+  "fps": "30/1"
+}

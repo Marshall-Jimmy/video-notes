@@ -1,0 +1,24 @@
+{
+  "platform": "douyin",
+  "id": "7703573494676899008",
+  "url": "https://www.douyin.com/video/7703573494676899008",
+  "title": "今天继续驯服AI #Godot #游戏开发 #五星地牢 #uikit #vibecoding",
+  "author": "babyunko",
+  "publish_time": 1793627976,
+  "stats": {
+    "digg_count": 33,
+    "comment_count": 1,
+    "share_count": 9,
+    "collect_count": 27
+  },
+  "music": "@babyunko创作的原声",
+  "kind": "video",
+  "duration": 197.9,
+  "width": 1280,
+  "height": 720,
+  "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008",
+  "duration_h": "03:18",
+  "bytes": 9591237,
+  "fps": "30/1"
+}

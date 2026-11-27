@@ -1,0 +1,84 @@
+{
+  "url": "https://www.douyin.com/video/7703573494676899008",
+  "platform": "douyin",
+  "kind": "video",
+  "title": "今天继续驯服AI #Godot #游戏开发 #五星地牢 #uikit #vibecoding",
+  "author": "babyunko",
+  "description": "今天继续驯服AI #Godot #游戏开发 #五星地牢 #uikit #vibecoding",
+  "music": "@babyunko创作的原声",
+  "stats": {
+    "digg_count": 33,
+    "comment_count": 1,
+    "share_count": 9,
+    "collect_count": 27
+  },
+  "duration": 197.9,
+  "duration_h": "03:18",
+  "size": "1280x720",
+  "video": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008",
+  "frames": [
+    {
+      "idx": 1,
+      "t": 1.0,
+      "ts": "00:01",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k01_00m01s.jpg"
+    },
+    {
+      "idx": 2,
+      "t": 19.0,
+      "ts": "00:19",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k02_00m19s.jpg"
+    },
+    {
+      "idx": 3,
+      "t": 34.0,
+      "ts": "00:34",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k03_00m34s.jpg"
+    },
+    {
+      "idx": 4,
+      "t": 64.0,
+      "ts": "01:04",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k04_01m04s.jpg"
+    },
+    {
+      "idx": 5,
+      "t": 94.0,
+      "ts": "01:34",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k05_01m34s.jpg"
+    },
+    {
+      "idx": 6,
+      "t": 104.0,
+      "ts": "01:44",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k06_01m44s.jpg"
+    },
+    {
+      "idx": 7,
+      "t": 115.0,
+      "ts": "01:55",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k07_01m55s.jpg"
+    },
+    {
+      "idx": 8,
+      "t": 196.0,
+      "ts": "03:16",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\frames\\k08_03m16s.jpg"
+    }
+  ],
+  "contact_sheet": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\contact_sheet.jpg",
+  "audio_chunks": [
+    {
+      "idx": 1,
+      "t0": 0.0,
+      "t1": 197.9,
+      "ts0": "00:00",
+      "ts1": "03:18",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\今天继续驯服AI_#Godot_#游戏开发_#五星地牢_#uik_7703573494676899008\\audio\\audio.mp3",
+      "bytes": 1584492
+    }
+  ],
+  "transcript": null,
+  "elapsed_sec": 15.4
+}

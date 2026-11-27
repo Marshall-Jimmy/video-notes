@@ -1,0 +1,84 @@
+{
+  "url": "https://www.douyin.com/video/7689158160245973672",
+  "platform": "douyin",
+  "kind": "video",
+  "title": "让火焰烧起来 《五星地牢》开发日志04 分享我正在制作的游戏《五星地牢》。这期来拆解骷髅背后的火焰特效。 \n喜欢主播的内容，就关注主播，成为原始粉丝。 #Godot",
+  "author": "babyunko",
+  "description": "让火焰烧起来 《五星地牢》开发日志04 分享我正在制作的游戏《五星地牢》。这期来拆解骷髅背后的火焰特效。 \n喜欢主播的内容，就关注主播，成为原始粉丝。 #Godot",
+  "music": "@babyunko创作的原声",
+  "stats": {
+    "digg_count": 2694,
+    "comment_count": 105,
+    "share_count": 303,
+    "collect_count": 1986
+  },
+  "duration": 196.53,
+  "duration_h": "03:17",
+  "size": "1920x1080",
+  "video": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672",
+  "frames": [
+    {
+      "idx": 1,
+      "t": 1.0,
+      "ts": "00:01",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k01_00m01s.jpg"
+    },
+    {
+      "idx": 2,
+      "t": 37.0,
+      "ts": "00:37",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k02_00m37s.jpg"
+    },
+    {
+      "idx": 3,
+      "t": 56.0,
+      "ts": "00:56",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k03_00m56s.jpg"
+    },
+    {
+      "idx": 4,
+      "t": 81.0,
+      "ts": "01:21",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k04_01m21s.jpg"
+    },
+    {
+      "idx": 5,
+      "t": 98.0,
+      "ts": "01:38",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k05_01m38s.jpg"
+    },
+    {
+      "idx": 6,
+      "t": 161.0,
+      "ts": "02:41",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k06_02m41s.jpg"
+    },
+    {
+      "idx": 7,
+      "t": 190.0,
+      "ts": "03:10",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k07_03m10s.jpg"
+    },
+    {
+      "idx": 8,
+      "t": 192.0,
+      "ts": "03:12",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\frames\\k08_03m12s.jpg"
+    }
+  ],
+  "contact_sheet": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\contact_sheet.jpg",
+  "audio_chunks": [
+    {
+      "idx": 1,
+      "t0": 0.0,
+      "t1": 196.53,
+      "ts0": "00:00",
+      "ts1": "03:17",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672\\audio\\audio.mp3",
+      "bytes": 1572104
+    }
+  ],
+  "transcript": null,
+  "elapsed_sec": 23.4
+}
