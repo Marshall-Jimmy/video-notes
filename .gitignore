@@ -1,0 +1,15 @@
+# 原视频与音轨不入库（约占 145MB），随时可用 vidsum prepare 重新抓
+source.mp4
+source.*.mp4
+audio/
+*.part
+
+# 抽帧缓存
+.cand/
+
+# 系统/编辑器杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
