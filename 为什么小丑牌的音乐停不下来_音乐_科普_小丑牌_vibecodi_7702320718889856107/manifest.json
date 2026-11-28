@@ -1,0 +1,96 @@
+{
+  "url": "https://www.douyin.com/video/7702320718889856107",
+  "platform": "douyin",
+  "kind": "video",
+  "title": "为什么小丑牌的音乐停不下来 #音乐 #科普 #小丑牌 #vibecoding #vibe知识大赏",
+  "author": "Casoline",
+  "description": "为什么小丑牌的音乐停不下来 #音乐 #科普 #小丑牌 #vibecoding #vibe知识大赏",
+  "music": "@Casoline创作的原声",
+  "stats": {
+    "digg_count": 27916,
+    "comment_count": 720,
+    "share_count": 6358,
+    "collect_count": 4663
+  },
+  "duration": 76.3,
+  "duration_h": "01:16",
+  "size": "960x540",
+  "video": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107",
+  "frames": [
+    {
+      "idx": 1,
+      "t": 1.0,
+      "ts": "00:01",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k01_00m01s.jpg"
+    },
+    {
+      "idx": 2,
+      "t": 24.5,
+      "ts": "00:24",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k02_00m24s.jpg"
+    },
+    {
+      "idx": 3,
+      "t": 39.0,
+      "ts": "00:39",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k03_00m39s.jpg"
+    },
+    {
+      "idx": 4,
+      "t": 44.5,
+      "ts": "00:44",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k04_00m44s.jpg"
+    },
+    {
+      "idx": 5,
+      "t": 56.5,
+      "ts": "00:56",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k05_00m56s.jpg"
+    },
+    {
+      "idx": 6,
+      "t": 59.5,
+      "ts": "01:00",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k06_01m00s.jpg"
+    },
+    {
+      "idx": 7,
+      "t": 65.5,
+      "ts": "01:06",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k07_01m06s.jpg"
+    },
+    {
+      "idx": 8,
+      "t": 67.5,
+      "ts": "01:08",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k08_01m08s.jpg"
+    },
+    {
+      "idx": 9,
+      "t": 70.0,
+      "ts": "01:10",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k09_01m10s.jpg"
+    },
+    {
+      "idx": 10,
+      "t": 74.5,
+      "ts": "01:14",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\frames\\k10_01m14s.jpg"
+    }
+  ],
+  "contact_sheet": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\contact_sheet.jpg",
+  "audio_chunks": [
+    {
+      "idx": 1,
+      "t0": 0.0,
+      "t1": 76.3,
+      "ts0": "00:00",
+      "ts1": "01:16",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\为什么小丑牌的音乐停不下来_音乐_科普_小丑牌_vibecodi_7702320718889856107\\audio\\audio.mp3",
+      "bytes": 610236
+    }
+  ],
+  "transcript": null,
+  "elapsed_sec": 14.7
+}
