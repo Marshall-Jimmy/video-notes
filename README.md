@@ -32,6 +32,8 @@
 | 01 | [让火焰烧起来 ·《五星地牢》开发日志 04](让火焰烧起来_《五星地牢》开发日志04_分享我正在制作的游戏《五_7689158160245973672/summary.md) | babyunko | 03:17 | 不靠贴图动画：每像素一个数值，两层滚动噪声把轮廓推到 0 附近，正数显示负数透明 |
 | 02 | [2D 游戏中的雪天效果 DEV LOG 05](2D游戏中的雪天效果_DEV_LOG.05_本期主要是讨论一下在_7683890555486506255/summary.md) | Mushreb | 04:00 | 粒子归粒子、积雪归 shader：噪波 + Step 阈值当蒙版，阈值就是积雪厚度 |
 | 03 | [今天继续驯服 AI（PageKit）](今天继续驯服AI_Godot_游戏开发_五星地牢_uik_7703573494676899008/summary.md) | babyunko | 03:18 | Godot 太自由 → AI 每个页面写一套动画；用 UIKit 式转场协议把动画收进一个类 |
+| 08 | [拒绝生硬过渡：画出完美的像素渐变](拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934/summary.md) | 画生 | 00:31 | 像素画不要平滑渐变，用抖色：中间密、两侧疏，靠"点的密度"造中间色 |
+| 09 | [在 Godot 里做"死亡细胞"风格的像素三渲二](在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019/summary.md) | 游画大叔 | 04:50 | 3D 模型 + SubViewport + 一次 nearest 降采样 + 批量抽帧 = 像素动画 |
 
 ### 方法论与 AI 协作
 
@@ -53,6 +55,8 @@
 - [05 · AI 场景优化](https://marshall-jimmy.github.io/video-notes/AI_做的场景为什么一眼假？_上期讲了_AI_怎么从零搭出一个游_7710984439119340518/report.html)
 - [06 · 风格 ≠ 画风](https://marshall-jimmy.github.io/video-notes/AI游戏美术-风格≠画风：游戏的美术风格怎么确定？_美术风格不等_7695768004130344202/report.html)
 - [07 · 4 招抢救半成品](https://marshall-jimmy.github.io/video-notes/4招教你抢救AI半成品！零基础可照抄！_AI_给的半成品总差点意_7709727096804887846/report.html)
+- [08 · 像素渐变](https://marshall-jimmy.github.io/video-notes/拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934/report.html)
+- [09 · 像素三渲二](https://marshall-jimmy.github.io/video-notes/在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019/report.html)
 
 > GitHub 的仓库文件页不会渲染 HTML，所以报告走 GitHub Pages 发布；`summary.md` 在仓库里点开就是排好版的。
 

@@ -1,0 +1,60 @@
+{
+  "url": "https://www.douyin.com/video/7649641269047708934",
+  "platform": "douyin",
+  "kind": "video",
+  "title": "拒绝生硬过渡！一招教你画出完美的像素渐变 #游戏 #游戏开发 #独立游戏 #独立游戏开发 出处：ThatCatWithOnly8Toes",
+  "author": "画生",
+  "description": "拒绝生硬过渡！一招教你画出完美的像素渐变 #游戏 #游戏开发 #独立游戏 #独立游戏开发 出处：ThatCatWithOnly8Toes",
+  "music": "@画生创作的原声",
+  "stats": {
+    "digg_count": 14662,
+    "comment_count": 53,
+    "share_count": 604,
+    "collect_count": 4529
+  },
+  "duration": 31.42,
+  "duration_h": "00:31",
+  "size": "1080x1920",
+  "video": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934",
+  "frames": [
+    {
+      "idx": 1,
+      "t": 1.5,
+      "ts": "00:02",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\frames\\k01_00m02s.jpg"
+    },
+    {
+      "idx": 2,
+      "t": 5.0,
+      "ts": "00:05",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\frames\\k02_00m05s.jpg"
+    },
+    {
+      "idx": 3,
+      "t": 17.5,
+      "ts": "00:18",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\frames\\k03_00m18s.jpg"
+    },
+    {
+      "idx": 4,
+      "t": 22.0,
+      "ts": "00:22",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\frames\\k04_00m22s.jpg"
+    }
+  ],
+  "contact_sheet": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\contact_sheet.jpg",
+  "audio_chunks": [
+    {
+      "idx": 1,
+      "t0": 0.0,
+      "t1": 31.42,
+      "ts0": "00:00",
+      "ts1": "00:31",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\拒绝生硬过渡！一招教你画出完美的像素渐变_游戏_游戏开发_独立游_7649641269047708934\\audio\\audio.mp3",
+      "bytes": 251336
+    }
+  ],
+  "transcript": null,
+  "elapsed_sec": 16.8
+}

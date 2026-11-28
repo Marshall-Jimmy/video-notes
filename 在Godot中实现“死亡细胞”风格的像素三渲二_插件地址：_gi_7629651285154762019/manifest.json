@@ -1,0 +1,108 @@
+{
+  "url": "https://www.douyin.com/video/7629651285154762019",
+  "platform": "douyin",
+  "kind": "video",
+  "title": "在Godot中实现“死亡细胞”风格的像素三渲二 插件地址：\ngithub：wuyuanlch/Pixel-art-3D-to-2D-rendering-in-Godot: Implementing \"Dead Cells\" style pixel art 3D-to-2D rendering in Godot\nitch：Pixel art 3D-to-2D rendering in Godot by Youhua_Uncle",
+  "author": "游画大叔",
+  "description": "在Godot中实现“死亡细胞”风格的像素三渲二 插件地址：\ngithub：wuyuanlch/Pixel-art-3D-to-2D-rendering-in-Godot: Implementing \"Dead Cells\" style pixel art 3D-to-2D rendering in Godot\nitch：Pixel art 3D-to-2D rendering in Godot by Youhua_Uncle",
+  "music": "@游画大叔创作的原声",
+  "stats": {
+    "digg_count": 90,
+    "comment_count": 3,
+    "share_count": 15,
+    "collect_count": 93
+  },
+  "duration": 290.45,
+  "duration_h": "04:50",
+  "size": "1280x720",
+  "video": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\source.mp4",
+  "workdir": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019",
+  "frames": [
+    {
+      "idx": 1,
+      "t": 1.0,
+      "ts": "00:01",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k01_00m01s.jpg"
+    },
+    {
+      "idx": 2,
+      "t": 13.0,
+      "ts": "00:13",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k02_00m13s.jpg"
+    },
+    {
+      "idx": 3,
+      "t": 70.0,
+      "ts": "01:10",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k03_01m10s.jpg"
+    },
+    {
+      "idx": 4,
+      "t": 123.0,
+      "ts": "02:03",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k04_02m03s.jpg"
+    },
+    {
+      "idx": 5,
+      "t": 135.0,
+      "ts": "02:15",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k05_02m15s.jpg"
+    },
+    {
+      "idx": 6,
+      "t": 146.0,
+      "ts": "02:26",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k06_02m26s.jpg"
+    },
+    {
+      "idx": 7,
+      "t": 183.0,
+      "ts": "03:03",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k07_03m03s.jpg"
+    },
+    {
+      "idx": 8,
+      "t": 207.0,
+      "ts": "03:27",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k08_03m27s.jpg"
+    },
+    {
+      "idx": 9,
+      "t": 220.0,
+      "ts": "03:40",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k09_03m40s.jpg"
+    },
+    {
+      "idx": 10,
+      "t": 235.0,
+      "ts": "03:55",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k10_03m55s.jpg"
+    },
+    {
+      "idx": 11,
+      "t": 262.0,
+      "ts": "04:22",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k11_04m22s.jpg"
+    },
+    {
+      "idx": 12,
+      "t": 287.0,
+      "ts": "04:47",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\frames\\k12_04m47s.jpg"
+    }
+  ],
+  "contact_sheet": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\contact_sheet.jpg",
+  "audio_chunks": [
+    {
+      "idx": 1,
+      "t0": 0.0,
+      "t1": 290.45,
+      "ts0": "00:00",
+      "ts1": "04:50",
+      "file": "C:\\Users\\cronu\\Documents\\Workspace\\vidsum_out\\在Godot中实现“死亡细胞”风格的像素三渲二_插件地址：_gi_7629651285154762019\\audio\\audio.mp3",
+      "bytes": 2324940
+    }
+  ],
+  "transcript": null,
+  "elapsed_sec": 17.5
+}
